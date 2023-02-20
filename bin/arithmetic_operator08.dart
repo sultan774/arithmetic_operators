@@ -8,5 +8,10 @@ Find the expression value assign to 'answer'. ab/c
 
 */
 void main() {
+ int a=3;
+ int b=4;
+ int c=2;
+ double answer=3*4/2;
+ print(answer); 
   //write your code here
 }
