@@ -9,5 +9,11 @@ Find the expression value assign to 'answer'. a+b - cd .
 
 */
 void main() {
+  int a=8;
+  int b=3;
+  int c=2;
+  int d=4;
+  double answer=8*3/2/4;
+  print(answer);
   //write your code here
 }
